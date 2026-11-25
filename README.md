@@ -21,6 +21,9 @@ Older residential stock built prior to modern thermal insulation ordinances acco
 ---
 
 ## Results Summary
+## Visual Analysis
+![Baseline Heat Loss Breakdown](heat_loss_breakdown.png)
+![Retrofit Scenario Comparison](scenario_comparison.png)
 
 | Scenario | $H_T$ ($\text{W/K}$) | $H_V$ ($\text{W/K}$) | Peak Load ($\text{kW}$) | Net Demand ($\text{kWh/m}^2\text{yr}$) | Energy Saved | CapEx (€) | Simple Payback | 20-Yr NPV (€) | $\text{CO}_2$ Saved ($\text{t/yr}$) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
